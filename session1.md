@@ -7,3 +7,5 @@ This has the following reasons / advantages:
 
 Many tools don't have a GUI and can only be used as a CLI.
 You can write scripts (which consist of a number of commands) to automate processes and repetitive tasks and ensure they are being run exactly the same way every time they are executed.
+
+Some more text!
